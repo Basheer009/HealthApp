@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "484702233733",
+    "firebase_url": "https://health-app-111ed.firebaseio.com",
+    "project_id": "health-app-111ed",
+    "storage_bucket": "health-app-111ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484702233733:android:1e794c45a65b9355",
+        "android_client_info": {
+          "package_name": "com.yemengeek.basheeradel.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484702233733-0vi4lae1n1js2et7b89lbpbptfod8end.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDPtA71DWRH-5uxegjubDduju3qMpdG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
